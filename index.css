@@ -1,12 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700|Roboto:300,400,500,700,900&amp;display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap')
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Poppins", sans-serif;
+  //font-family: "Poppins", sans-serif;
+  font-family: "Noto Sans TC;
   color: #222222;
   line-height: 1.2em;
   margin-bottom: 0;
